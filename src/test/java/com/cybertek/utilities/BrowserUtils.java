@@ -11,13 +11,9 @@ public class BrowserUtils {
         second*=1000;
 
         try {
-
             Thread.sleep(second);
-
         } catch (InterruptedException e) {
-
-            System.out.println("something happened in the sleep method");
-
+            System.out.println("Something happened in the sleep method");
         }
 
     }

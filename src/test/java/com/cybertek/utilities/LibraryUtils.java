@@ -10,9 +10,11 @@ public class LibraryUtils {
         WebElement usernameField = driver.findElement(By.xpath("//input[@type='email']"));
         WebElement passwordField = driver.findElement(By.xpath("//input[@type='password']"));
         WebElement submitButton = driver.findElement(By.xpath("//button[@type='submit']"));
+
         BrowserUtils.sleep(2);
-        usernameField.sendKeys("student11@library");
-        passwordField.sendKeys("tScBPCUr");
+
+        usernameField.sendKeys("student12@library");
+        passwordField.sendKeys("UC0LC9Hj");
         submitButton.click();
     }
 }
