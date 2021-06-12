@@ -1,6 +1,7 @@
 package com.cybertek.tests.PracticeAutomation;
 
 import com.cybertek.utilities.ConfigurationReader;
+import com.cybertek.utilities.SmartBearUtils;
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

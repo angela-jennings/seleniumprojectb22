@@ -1,6 +1,5 @@
-package com.cybertek.tests.PracticeAutomation;
+package com.cybertek.utilities;
 
-import com.cybertek.utilities.BrowserUtils;
 import com.github.javafaker.Faker;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
