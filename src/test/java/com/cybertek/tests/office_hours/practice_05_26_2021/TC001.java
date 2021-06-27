@@ -1,4 +1,4 @@
-package com.cybertek.tests.OfficeHours.Practice_05_26_2021;
+package com.cybertek.tests.office_hours.practice_05_26_2021;
 
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;

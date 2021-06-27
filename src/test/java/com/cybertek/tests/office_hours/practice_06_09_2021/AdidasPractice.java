@@ -1,4 +1,4 @@
-package com.cybertek.tests.OfficeHours.Practice_06_09_2021;
+package com.cybertek.tests.office_hours.practice_06_09_2021;
 
 import com.cybertek.utilities.OfficeHoursUtilities.AdidasPracticeMethods;
 import com.cybertek.utilities.WebDriverFactory;

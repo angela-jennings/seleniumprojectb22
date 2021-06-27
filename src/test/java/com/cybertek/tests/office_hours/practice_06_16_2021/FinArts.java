@@ -1,4 +1,4 @@
-package com.cybertek.tests.OfficeHours.Practice_06_16_2021;
+package com.cybertek.tests.office_hours.practice_06_16_2021;
 
 import com.cybertek.utilities.BrowserUtils;
 import com.cybertek.utilities.ConfigurationReader;
